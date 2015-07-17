@@ -51,12 +51,12 @@ print 'this is a string'
 #************************************************************ EX 9
 
 print "print double quote \
-	this way"
+    this way"
 print """ or print
-	double
-	quote
-	this 
-	way"""
+    double
+    quote
+    this
+    way"""
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
 print "Here are the days: ", days
